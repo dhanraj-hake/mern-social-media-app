@@ -1,0 +1,23 @@
+
+.trendnav{
+    width: 100%;
+    height: 3.2rem;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.trendnav img{
+    width: 2rem;
+    height: 2rem; 
+}
+
+.sherebutton{
+    width: 200px;
+    padding: 5px;
+    align-self: center;
+}
+
+.sherebtn{
+    width: 200px;
+}

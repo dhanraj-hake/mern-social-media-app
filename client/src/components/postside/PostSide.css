@@ -1,0 +1,10 @@
+
+.postside{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+    padding: 4px;
+    overflow: auto;
+    height: 100vh;
+}

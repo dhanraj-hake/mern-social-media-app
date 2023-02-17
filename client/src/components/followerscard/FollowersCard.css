@@ -1,0 +1,52 @@
+
+.followersCard{
+    width: 100%;
+
+    overflow: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+
+.follower{
+    padding: 2px 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.64);
+    border-radius: 1rem;
+    height: 5.5rem;
+    box-shadow:  2px 4px 4px 2px rgba(122, 104, 104, 0.089);;
+}
+
+
+
+
+.follower img{
+    width: 3.2rem;
+    height: 3.2rem;
+}
+.follower .imagename{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.follower .imagename .name{
+    padding: 0 0 0 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.follower .imagename .name span.bold{
+    font-weight: bold;
+}
+
+

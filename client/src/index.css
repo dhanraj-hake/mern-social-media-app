@@ -1,0 +1,43 @@
+
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.btn{
+  overflow: hidden;
+  width: 100px;
+  height: 35px;
+  background: linear-gradient(98.63deg, #f9a225 0%, #f95f35 100%);
+  border: none;
+  overflow: none;
+  border-radius: 0.5rem;
+  color: white;
+}
+
+.btn:hover{
+  background: transparent;
+  border: 2px solid #fca61f;
+  color : #fca61f;
+
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+.unfollowbtn{
+
+  border:2px solid #fca61f ;
+  color: #fca61f;
+  background: transparent;
+
+}
+
+.profile-circle{
+
+  border-radius: 50%;
+}

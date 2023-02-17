@@ -1,0 +1,19 @@
+
+.profilepage{
+    position: relative;
+    width: 100vw;
+    display: grid;
+    position: relative;
+    display: grid;
+    grid-template-columns: 20rem auto 22rem;
+    gap : 1rem;
+    background-color: #f3f3f3;
+    overflow: auto;
+}
+
+
+.profilecenter{
+    margin: 1rem 0;
+    height: 100vh;
+    overflow: auto;
+}

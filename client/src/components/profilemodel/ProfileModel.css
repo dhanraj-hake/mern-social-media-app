@@ -1,0 +1,25 @@
+
+
+.modalform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.modalform .row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.updatebtn{
+    margin: 1rem;
+    align-self: flex-end;
+}
+
